@@ -1,25 +1,4 @@
 # Dependencies
 markdown:         kramdown
 
-# Setup
-author:
-  name:           'Openstax'
-  url:            http://cnx.org
-
-# title:            "Anatomy & Physiology"
-# tagline:          'from http://cnx.org/content/col11496/1.6 (CC-BY)'
-# url:              https://github.com/philschatz/anatomy-book
-#
-# # Custom vars
-# version:          6.17
-# origin:           http://cnx.org/contents/14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22@6.17
-
-title:            "Biology"
-url:              https://github.com/philschatz/biology-book
-
-# Custom vars
-version:          6.17
-origin:           http://cnx.org/contents/14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22@6.17
-
-
 bookviewer:       http://philschatz.com/book-viewer
