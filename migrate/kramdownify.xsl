@@ -53,14 +53,14 @@
 <xsl:template match="x:nav//x:li[@data-document]/x:a/@class"/>
 
 <!-- Convert Introduction modules into the chapter link -->
-<xsl:template match="x:nav//x:li[x:ol/x:li/x:a[text() = 'Introduction']]/x:span">
-  <xsl:apply-templates mode="intro" select="../x:ol/x:li/x:a[text() = 'Introduction']">
+<xsl:template match="x:nav//x:li[x:ol/x:li/x:a[starts-with(text(), 'Introduction')]]/x:span">
+  <xsl:apply-templates mode="intro" select="../x:ol/x:li/x:a[starts-with(text(), 'Introduction')]">
     <xsl:with-param name="link-text" select="text()"/>
   </xsl:apply-templates>
 </xsl:template>
 
-<xsl:template               match="x:li[@class]/x:ol/x:li[x:a[text() = 'Introduction']]"/>
-<xsl:template mode="intro"  match="x:nav//x:li[@class]/x:ol/x:li/x:a[text() = 'Introduction']">
+<xsl:template               match="x:li[@class]/x:ol/x:li[x:a[starts-with(text(), 'Introduction')]]"/>
+<xsl:template mode="intro"  match="x:nav//x:li[@class]/x:ol/x:li/x:a[starts-with(text(), 'Introduction')]">
   <xsl:param name="link-text"/>
   <xsl:copy>
     <xsl:apply-templates select="@*"/>
