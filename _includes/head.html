@@ -19,15 +19,20 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.github.url }}/atom.xml">
 
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
   <script type="text/javascript" src="{{ site.bookviewer }}/dist/uri.js"></script>
+  <script type="text/javascript" src="{{ site.bookviewer }}/dist/lunr.js"></script>
 
 
   <script type="text/javascript">
     window.Book = {
       'url': '{{ site.github.repository_url }}',
+      'rootUrl': '{{ site.github.url }}',
       'issuesUrl': '{{ site.github.repository_url }}/issues',
-      'toc': {'url': '{{ site.github.url }}/SUMMARY.html'}
+      'contributeUrl': '{{ site.github.repository_url }}/tree/gh-pages',
+      'toc': {'url': '{{ site.github.url }}/SUMMARY.html'},
+      'searchIndex': '{{ site.github.url }}/search-index.json'
     };
   </script>
 
