@@ -4,7 +4,9 @@ layout: page
 ---
 
 
-<div data-type="abstract"></div>
+<div data-type="abstract">
+Principles of Economics covers the scope and sequence for a two-semester principles of economics course. The text also includes many current examples, including; discussions on the great recession, the controversy among economists over the Affordable Care Act (Obamacare), the recent government shutdown, and the appointment of the United States’ first female Federal Reserve chair, Janet Yellen. The pedagogical choices, chapter arrangements, and learning objective fulfillment were developed and vetted with feedback from educators dedicated to the project. The outcome is a balanced approach to micro and macro economics, to both Keynesian and classical views, and to the theory and application of economics concepts. Current events are treated in a politically-balanced way, as well.
+</div>
 
 1.  {: .preface} [Preface](contents/m49468.md)
 2.  {: .chapter} [Welcome to Economics!](contents/m48590.md)
@@ -19,10 +21,11 @@ layout: page
     3.  [Confronting Objections to the Economic Approach](contents/m48608.md)
 
 4.  {: .chapter} [Demand and Supply](contents/m48628.md)
-    1.  [Price Ceilings and Price Floors](contents/m48632.md)
-    2.  [Demand, Supply, and Equilibrium in Markets for Goods and Services](contents/m48629.md)
-    3.  [Shifts in Demand and Supply for Goods and Services](contents/m48630.md)
-    4.  [Changes in Equilibrium Price and Quantity: The Four-Step Process](contents/m48631.md)
+    1.  [Demand, Supply, and Equilibrium in Markets for Goods and Services](contents/m48629.md)
+    2.  [Shifts in Demand and Supply for Goods and Services](contents/m48630.md)
+    3.  [Changes in Equilibrium Price and Quantity: The Four-Step Process](contents/m48631.md)
+    4.  [Price Ceilings and Price Floors](contents/m48632.md)
+    5.  [Demand, Supply, and Efficiency](contents/m50323.md)
 
 5.  {: .chapter} [Labor and Financial Markets](contents/m48636.md)
     1.  [Demand and Supply at Work in Labor Markets](contents/m48637.md)
@@ -100,7 +103,7 @@ layout: page
     2.  [How Households Supply Financial Capital](contents/m48699.md)
     3.  [How to Accumulate Personal Wealth](contents/m48700.md)
 
-19. {: .chapter} [Public Choice](contents/m48701.md)
+19. {: .chapter} [Public Economy](contents/m48701.md)
     1.  [Voter Participation and Costs of Elections](contents/m48702.md)
     2.  [Special Interest Politics](contents/m48703.md)
     3.  [Flaws in the Democratic System of Government](contents/m48704.md)
@@ -139,13 +142,13 @@ layout: page
     5.  [The Pros and Cons of Trade Deficits and Surpluses](contents/m48737.md)
     6.  [The Difference between Level of Trade and the Trade Balance](contents/m48738.md)
 
-25. {: .chapter} [The Aggregate Supply-Aggregate Demand Model](contents/m48739.md)
+25. {: .chapter} [The Aggregate Demand/Aggregate Supply Model](contents/m48739.md)
     1.  [Macroeconomic Perspectives on Demand and Supply](contents/m48740.md)
-    2.  [Building a Model of Aggregate Supply and Aggregate Demand](contents/m48741.md)
+    2.  [Building a Model of Aggregate Demand and Aggregate Supply](contents/m48741.md)
     3.  [Shifts in Aggregate Supply](contents/m48742.md)
     4.  [Shifts in Aggregate Demand](contents/m48745.md)
-    5.  [How the AS–AD Model Incorporates Growth, Unemployment, and Inflation](contents/m48747.md)
-    6.  [Keynes’ Law and Say’s Law in the AS–AD Model](contents/m48748.md)
+    5.  [How the AD/AS Model Incorporates Growth, Unemployment, and Inflation](contents/m48747.md)
+    6.  [Keynes’ Law and Say’s Law in the AD/AS Model](contents/m48748.md)
 
 26. {: .chapter} [The Keynesian Perspective](contents/m48749.md)
     1.  [Aggregate Demand in Keynesian Analysis](contents/m48750.md)
@@ -186,7 +189,7 @@ layout: page
     6.  [Practical Problems with Discretionary Fiscal Policy](contents/m48798.md)
     7.  [The Question of a Balanced Budget](contents/m48799.md)
 
-32. {: .chapter} [The Macroeconomic Impacts of Government Borrowing](contents/m48800.md)
+32. {: .chapter} [The Impacts of Government Borrowing](contents/m48800.md)
     1.  [How Government Borrowing Affects Investment and the Trade Balance](contents/m48802.md)
     2.  [Fiscal Policy, Investment, and Economic Growth](contents/m48807.md)
     3.  [How Government Borrowing Affects Private Saving](contents/m48808.md)
@@ -213,8 +216,7 @@ layout: page
     5.  [The Tradeoffs of Trade Policy](contents/m48830.md)
 
 36. {: .appendix} [The Use of Mathematics in Principles of Economics](contents/m48831.md)
-37. {: .appendix} [Demand, Supply, and Efficiency](contents/m48832.md)
-38. {: .appendix} [Indifference Curves](contents/m48833.md)
-39. {: .appendix} [Present Discounted Value](contents/m48834.md)
-40. {: .appendix} [The Expenditure-Output Model](contents/m48835.md)
+37. {: .appendix} [Indifference Curves](contents/m48833.md)
+38. {: .appendix} [Present Discounted Value](contents/m48834.md)
+39. {: .appendix} [The Expenditure-Output Model](contents/m48835.md)
 
