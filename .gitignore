@@ -4,3 +4,4 @@
 /resources/unifiedfile*
 /resources/*.html
 /resources/*.txt
+/node_modules
