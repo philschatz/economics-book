@@ -1,16 +1,24 @@
+
 # Dependencies
 markdown:         kramdown
 
+# Permalinks
+#permalink:        pretty
+
 # Setup
+title:            'Economics'
+tagline:          'from http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.326 (CC-BY)'
+url:              https://github.com/philschatz/economics-book
+origin:           http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.326
+
 author:
-  name:           "Openstax"
-  url:            http://cnx.org
+  name:           'Openstax'
+  url:            https://github.com/openstax
 
-
-title:            "Openstax Economics"
+paginate:         5
 
 # Custom vars
-version:          10.1
-origin:           http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@10.1
+version:          11.326
 
 bookviewer:       http://philschatz.com/book-viewer
+
