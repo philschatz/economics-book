@@ -1,0 +1,2712 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col11613/1.11</md:content-url>
+  <md:content-id>col11613</md:content-id>
+  <md:title>Principles of Economics</md:title>
+  
+  
+  <md:version>1.11</md:version>
+  <md:created>2014/01/02 16:13:54.592 US/Central</md:created>
+  <md:revised>2014/09/19 09:13:59.386 GMT-5</md:revised>
+
+  <md:actors>
+    
+    
+    <md:person userid="cnxecon">
+      <md:firstname>OpenStax</md:firstname>
+      <md:surname>College</md:surname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">cnxecon</md:role>
+    <md:role type="maintainer">cnxecon</md:role>
+    <md:role type="licensor">cnxecon</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  
+
+  <md:subjectlist>
+    <md:subject>Mathematics and Statistics</md:subject>
+  </md:subjectlist>
+
+  <md:abstract>Principles of Economics covers the scope and sequence for a two-semester principles of economics course. The text also includes many current examples, including; discussions on the great recession, the controversy among economists over the Affordable Care Act (Obamacare), the recent government shutdown, and the appointment of the United States’ first female Federal Reserve chair, Janet Yellen. 
+
+The pedagogical choices, chapter arrangements, and learning objective fulfillment were developed and vetted with feedback from educators dedicated to the project. The outcome is a balanced approach to micro and macro economics, to both Keynesian and classical views, and to the theory and application of economics concepts. Current events are treated in a politically-balanced way, as well. </md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="ccap-economics"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m49468" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Welcome to Economics!</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48590" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48591" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Is Economics, and Why Is It Important?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48592" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Microeconomics and Macroeconomics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48593" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>How Economists Use Theories and Models to Understand Economic Issues</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48594" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>How Economies Can Be Organized: An Overview of Economic Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Choice in a World of Scarcity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48602" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Choice in a World of Scarcity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48605" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>How Individuals Make Choices Based on Their Budget Constraint</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48607" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.13">
+        <md:title>The Production Possibilities Frontier and Social Choices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48608" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Confronting Objections to the Economic Approach</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Demand and Supply</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48628" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Demand and Supply</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48629" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Demand, Supply, and Equilibrium in Markets for Goods and Services</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48630" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Shifts in Demand and Supply for Goods and Services</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48631" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Changes in Equilibrium Price and Quantity: The Four-Step Process</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48632" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Price Ceilings and Price Floors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50323" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Demand, Supply, and Efficiency</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Labor and Financial Markets</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48636" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Labor and Financial Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48637" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Demand and Supply at Work in Labor Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48638" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Demand and Supply in Financial Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48639" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>The Market System as an Efficient Mechanism for Information</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Elasticity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48611" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Elasticity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48614" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Price Elasticity of Demand and Price Elasticity of Supply</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48616" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Polar Cases of Elasticity and Constant Elasticity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48618" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.11">
+        <md:title>Elasticity and Pricing</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48619" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Elasticity in Areas Other Than Price</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Consumer Choices</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48640" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Introduction to Consumer Choices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48641" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Consumption Choices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48642" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>How Changes in Income and Prices Affect Consumption Choices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48643" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Labor-Leisure Choices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48644" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.11">
+        <md:title>Intertemporal Choices in Financial Capital Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cost and Industry Structure</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48620" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Introduction to Cost and Industry Structure</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48621" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Explicit and Implicit Costs, and Accounting and Economic Profit</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48625" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>The Structure of Costs in the Short Run</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48626" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Structure of Costs in the Long Run</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Perfect Competition</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48645" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Perfect Competition</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48646" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Perfect Competition and Why It Matters</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48647" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.11">
+        <md:title>How Perfectly Competitive Firms Make Output Decisions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48648" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Entry and Exit Decisions in the Long Run</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48649" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Efficiency in Perfectly Competitive Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Monopoly</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48650" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Introduction to a Monopoly</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48651" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>How Monopolies Form: Barriers to Entry</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48652" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>How a Profit-Maximizing Monopoly Chooses Output and Price</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Monopolistic Competition and Oligopoly</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48658" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Monopolistic Competition and Oligopoly</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48659" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Monopolistic Competition</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48660" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Oligopoly</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Monopoly and Antitrust Policy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48661" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Monopoly and Antitrust Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48662" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Corporate Mergers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48663" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Regulating Anticompetitive Behavior</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48666" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Regulating Natural Monopolies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48667" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Great Deregulation Experiment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Environmental Protection and Negative Externalities</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48668" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Environmental Protection and Negative Externalities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48669" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Economics of Pollution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48670" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Command-and-Control Regulation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48671" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Market-Oriented Environmental Tools</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48672" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Benefits and Costs of U.S. Environmental Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48673" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>International Environmental Issues</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48674" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Tradeoff between Economic Output and Environmental Protection</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Positive Externalities and Public Goods</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48675" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Positive Externalities and Public Goods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48676" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Why the Private Sector Under Invests in Innovation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48678" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>How Governments Can Encourage Innovation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48680" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Public Goods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Poverty and Economic Inequality</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48681" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Poverty and Economic Inequality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48683" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Drawing the Poverty Line</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48684" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Poverty Trap</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48685" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Safety Net</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48686" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Income Inequality: Measurement and Causes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48687" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Government Policies to Reduce Income Inequality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Issues in Labor Markets: Unions, Discrimination, Immigration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48689" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Issues in Labor Markets: Unions, Discrimination, Immigration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48691" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Unions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48692" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Employment Discrimination</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48693" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Immigration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Information, Risk, and Insurance</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48694" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Information, Risk, and Insurance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48695" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Problem of Imperfect Information and Asymmetric Information</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48696" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Insurance and Imperfect Information</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Financial Markets</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48697" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Financial Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48698" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>How Businesses Raise Financial Capital</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48699" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>How Households Supply Financial Capital</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48700" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>How to Accumulate Personal Wealth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Public Economy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48701" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Public Economy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48702" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Voter Participation and Costs of Elections</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48703" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Special Interest Politics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48704" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Flaws in the Democratic System of Government</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Macroeconomic Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48705" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Introduction to the Macroeconomic Perspective</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48708" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Measuring the Size of the Economy: Gross Domestic Product</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48709" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Adjusting Nominal Values to Real Values</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48710" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Tracking Real GDP over Time</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48711" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Comparing GDP among Countries</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48712" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>How Well GDP Measures the Well-Being of Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Economic Growth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48713" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Economic Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48714" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Relatively Recent Arrival of Economic Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48715" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Labor Productivity and Economic Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48716" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Components of Economic Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48718" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Economic Convergence</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unemployment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48719" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Unemployment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48720" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How the Unemployment Rate is Defined and Computed</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48721" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Patterns of Unemployment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48722" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>What Causes Changes in Unemployment over the Short Run</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48723" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>What Causes Changes in Unemployment over the Long Run</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Inflation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48724" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Inflation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48725" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Tracking Inflation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48726" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>How Changes in the Cost of Living are Measured</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48727" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How the U.S. and Other Countries Experience Inflation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48729" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Confusion Over Inflation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48730" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Indexing and Its Limitations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The International Trade and Capital Flows</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48731" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to the International Trade and Capital Flows</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48732" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Measuring Trade Balances</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48733" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Trade Balances in Historical and International Context</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48734" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Trade Balances and Flows of Financial Capital</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48736" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The National Saving and Investment Identity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48737" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Pros and Cons of Trade Deficits and Surpluses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48738" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Difference between Level of Trade and the Trade Balance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Aggregate Demand/Aggregate Supply Model</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48739" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Introduction to the Aggregate Demand/Aggregate Supply Model</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48740" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Macroeconomic Perspectives on Demand and Supply</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48741" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Building a Model of Aggregate Demand and Aggregate Supply</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48742" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Shifts in Aggregate Supply</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48745" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Shifts in Aggregate Demand</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48747" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>How the AD/AS Model Incorporates Growth, Unemployment, and Inflation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48748" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Keynes’ Law and Say’s Law in the AD/AS Model</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Keynesian Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48749" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Introduction to the Keynesian Perspective</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48750" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Aggregate Demand in Keynesian Analysis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48751" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>The Building Blocks of Keynesian Analysis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48753" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>The Phillips Curve</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48754" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Keynesian Perspective on Market Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Neoclassical Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48756" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to the Neoclassical Perspective</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48758" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Building Blocks of Neoclassical Analysis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48759" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Policy Implications of the Neoclassical Perspective</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48760" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Balancing Keynesian and Neoclassical Models</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Money and Banking</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48761" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Money and Banking</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48762" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Defining Money by Its Functions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48763" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Measuring Money: Currency, M1, and M2</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48766" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Role of Banks</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48767" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>How Banks Create Money</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Monetary Policy and Bank Regulation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48768" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Monetary Policy and Bank Regulation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48770" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Federal Reserve Banking System and Central Banks</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48771" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Bank Regulation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48772" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How a Central Bank Executes Monetary Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48773" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Monetary Policy and Economic Outcomes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48774" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Pitfalls for Monetary Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Exchange Rates and International Capital Flows</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48776" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Exchange Rates and International Capital Flows</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48784" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>How the Foreign Exchange Market Works</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48785" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Demand and Supply Shifts in Foreign Exchange Markets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48788" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Macroeconomic Effects of Exchange Rates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48790" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Exchange Rate Policies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Government Budgets and Fiscal Policy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48791" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Introduction to Government Budgets and Fiscal Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48792" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Government Spending</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48793" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Taxation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48794" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Federal Deficits and the National Debt</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48795" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Using Fiscal Policy to Fight Recession, Unemployment, and Inflation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48797" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Automatic Stabilizers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48798" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Practical Problems with Discretionary Fiscal Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48799" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Question of a Balanced Budget</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Impacts of Government Borrowing</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48800" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Introduction to the Impacts of Government Borrowing</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48802" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>How Government Borrowing Affects Investment and the Trade Balance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48807" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Fiscal Policy, Investment, and Economic Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48808" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>How Government Borrowing Affects Private Saving</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48809" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Fiscal Policy and the Trade Balance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Macroeconomic Policy Around the World</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48811" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Macroeconomic Policy around the World</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48812" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>The Diversity of Countries and Economies across the World</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48813" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.12">
+        <md:title>Improving Countries’ Standards of Living</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48814" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Causes of Unemployment around the World</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48815" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Causes of Inflation in Various Countries and Regions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48816" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Balance of Trade Concerns</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>International Trade</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48818" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to International Trade</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48819" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Absolute and Comparative Advantage</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48820" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>What Happens When a Country Has an Absolute Advantage in All Goods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48822" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Intra-industry Trade between Similar Economies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48823" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Benefits of Reducing Barriers to International Trade</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Globalization and Protectionism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48824" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Globalization and Protectionism</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48825" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Protectionism: An Indirect Subsidy from Consumers to Producers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48827" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>International Trade and Its Effects on Jobs, Wages, and Working Conditions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48828" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Arguments in Support of Restricting Imports</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48829" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>How Trade Policy Is Enacted: Globally, Regionally, and Nationally</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48830" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Tradeoffs of Trade Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m48831" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Use of Mathematics in Principles of Economics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48833" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Indifference Curves</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48834" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Present Discounted Value</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m48835" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>The Expenditure-Output Model</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+  </col:content>
+</col:collection>
