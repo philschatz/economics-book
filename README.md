@@ -1,6 +1,6 @@
-# [Table of Contents](./summary.md)
+# [Table of Contents](./SUMMARY.md)
 
-The Table of Contents is in [./summary.md](./summary.md)
+The Table of Contents is in [./SUMMARY.md](./SUMMARY.md)
 
 # About
 
