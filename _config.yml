@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Economics'
-tagline:          'from http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.330 (CC-BY)'
+tagline:          'from http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.331 (CC-BY)'
 url:              https://github.com/philschatz/economics-book
-origin:           http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.330
+origin:           http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.331
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          11.330
+version:          11.331
 
 bookviewer:       http://philschatz.com/book-viewer
 
